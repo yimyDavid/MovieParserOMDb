@@ -1,7 +1,7 @@
 # MovieParserOMDb Written in JAVA
 Gets the movie rating of each movie title.
 
-Files a libraries needed
+Files and libraries needed
 ------------------------
 json-simple-1.1.jar
 commons-io-2.4.har

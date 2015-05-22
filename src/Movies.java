@@ -12,7 +12,7 @@ public class Movies {
     }
 
     //Comparator for sorting the movies by imdb rating
-    //To sort by title, create a nuew comparator with almost the same structure
+    //To sort by title, create a new comparator with almost the same structure
     public static Comparator<Movies> ratingComparator = new Comparator<Movies>() {
         @Override
         public int compare(Movies m1, Movies m2) {
